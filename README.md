@@ -3,7 +3,9 @@ This project trains a convolutional neural network to detect sign language lette
 
 File tree
 Sign-Language-Detection-Repo/
+
 ├── README.md
+
 ├── LICENSE
 ├── .gitignore
 ├── requirements.txt
