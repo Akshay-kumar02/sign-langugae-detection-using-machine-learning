@@ -7,8 +7,11 @@ Sign-Language-Detection-Repo/
 ├── README.md
 
 ├── LICENSE
+
 ├── .gitignore
+
 ├── requirements.txt
+
 ├── data/
 │ └── download_data.py
 ├── src/
@@ -19,6 +22,7 @@ Sign-Language-Detection-Repo/
 │ ├── infer.py
 │ └── evaluate.py
 ├── notebooks/
+
 │ └── QUICK_START.md
 
 ## Features
